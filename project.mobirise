@@ -6,10 +6,10 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#383636",
-        "secondaryColor": "#bfcecb",
-        "successColor": "#90a878",
-        "infoColor": "#7e9b9f",
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#ffffff",
+        "successColor": "#168de2",
+        "infoColor": "#ffffff",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
         "titleFont": "Montserrat",
@@ -17,7 +17,7 @@
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
+        "isScrollToTopButton": true,
         "isRtl": false
       }
     },
@@ -68,13 +68,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#1170b4"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#1584d4!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#168de2"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -96,7 +96,7 @@
           "_name": "menu",
           "_anchor": "menu-1",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#168de2",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -111,7 +111,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cooltext253110251671369-421x128.png",
+              "src": "@PROJECT_PATH@/assets/images/cooltext253120529382866.gif",
               "height": 128,
               "alt": "Mobirise",
               "link": "#top",
@@ -135,13 +135,15 @@
           "_styles": {
             ".mbr-section-lead": {
               "font-size": "32px",
-              "color": "#33ac9d"
+              "color": "#def250"
             },
             ".mbr-section-title": {
               "font-size": "60px"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           },
           "_anchor": "header1-0",
@@ -157,16 +159,16 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#000",
+            "overlayOpacity": "0.7",
+            "overlayColor": "#168de2",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
             "showButtons": true
           },
-          "title": "<span style=\"line-height: 1.1;\"><br></span><span style=\"line-height: 1.1;\">СТРЕЙЧ-ПЛЕНКА</span><br><br>",
+          "title": "<span style=\"line-height: 1.1;\"><br></span><span style=\"line-height: 1.1;\">СТРЕТЧ-ПЛЕНКА</span><br><br>",
           "text": "ВЫСОКОГО КАЧЕСТВА&nbsp;ПО НИЗКИМ ЦЕНАМ<br><br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#contacts2-a\" data-toolbar=\"-mbrBtnMove\">ЗАКАЗАТЬ СЕЙЧАС</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"index.html#contacts2-a\" data-toolbar=\"-mbrBtnMove\">ЗАКАЗАТЬ СЕЙЧАС</a>"
         },
         {
           "_styles": {
@@ -175,7 +177,7 @@
             },
             "H3": {
               "font-size": "30px",
-              "color": "#c1c1c1"
+              "color": "#4b7cf7"
             }
           },
           "_tags": [
@@ -186,10 +188,10 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#282828",
+            "bgColor": "#ffffff",
             "showMeta": false
           },
-          "title": "Преимущества стрейч-упаковки",
+          "title": "Преимущества стретч-упаковки",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -202,23 +204,23 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "#282828",
-              "border-color": "#282828"
+              "background-color": "#fcfaaf",
+              "border-color": "#fcfaaf"
             },
             "H4": {
-              "color": "#232323"
+              "color": "#ffffff"
             }
           },
           "_name": "features7",
           "_anchor": "features7-3",
           "_params": {
-            "iconsBgColor": "#282828",
+            "iconsBgColor": "#fcfaaf",
             "paddingTop": 2,
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#33ac9d",
+            "bgColor": "#168de2",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -243,7 +245,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#2c82c9"
             }
           },
           "title1": "Надежная и точная фиксация товара в упаковке",
@@ -259,7 +261,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#fff"
+              "color": "#2c82c9"
             }
           },
           "title2": "Экономия материала благодаря растяжению",
@@ -275,7 +277,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#fff"
+              "color": "#2c82c9"
             }
           },
           "title3": "Предохранение грузов от загрязнений и повреждений",
@@ -291,7 +293,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#fff"
+              "color": "#2c82c9"
             }
           },
           "title4": "Создание плотной герметичной упаковки",
@@ -339,20 +341,23 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "#282828",
-              "border-color": "#282828"
+              "background-color": "#fcfaaf",
+              "border-color": "#fcfaaf"
+            },
+            "H4": {
+              "color": "#ffffff"
             }
           },
           "_name": "features7",
           "_anchor": "features7-4",
           "_params": {
-            "iconsBgColor": "#282828",
+            "iconsBgColor": "#fcfaaf",
             "paddingTop": "1",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#33ac9d",
+            "bgColor": "#168de2",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -377,7 +382,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#fff"
+              "color": "#2c82c9"
             }
           },
           "title1": "Контроль за содержимым прозрачной упаковки&nbsp;",
@@ -393,7 +398,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#fff"
+              "color": "#2c82c9"
             }
           },
           "title2": "Низкая стоимость стрейч -пленки",
@@ -409,7 +414,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#fff"
+              "color": "#2c82c9"
             }
           },
           "title3": "Высокая стойкость к прокалыванию",
@@ -425,7 +430,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#fff"
+              "color": "#2c82c9"
             }
           },
           "title4": "Не оставляет следов на упакованных товарах&nbsp;",
@@ -494,16 +499,6 @@
                 "active": false
               },
               {
-                "tags": "Пищевая",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/281-2000x1760-800x704.jpg",
-                "image": "@PROJECT_PATH@/assets/images/281-2000x1760.jpg",
-                "caption": "Пищевая пленка",
-                "active": false
-              },
-              {
                 "tags": "Цветная",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -511,20 +506,35 @@
                 "thumb": "@PROJECT_PATH@/assets/images/color3-2000x1760-800x704.jpg",
                 "image": "@PROJECT_PATH@/assets/images/color3-2000x1760.jpg",
                 "caption": "Цветная пленка",
+                "active": false
+              },
+              {
+                "tags": "Скотч",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/45-2000x1752-800x700.png",
+                "image": "@PROJECT_PATH@/assets/images/45-2000x1752.png",
+                "caption": "Скотч",
                 "active": true
               }
             ],
             "spacing": 1,
             "showText": true,
             "filter": true,
-            "bgColor": "#cccccc",
+            "bgColor": "#ffffff",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
           },
           "_anchor": "gallery4-6",
           "articleLayout": false,
-          "allItem": "Виды пленок"
+          "allItem": "Виды пленок",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "color": "#efefef"
+            }
+          }
         },
         {
           "_styles": {
@@ -544,7 +554,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#282828",
+            "bgColor": "#168de2",
             "showMeta": false
           },
           "title": "Почему стрейч-пленку лучше <br>приобретать у нас?",
@@ -556,8 +566,8 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "#282828",
-              "border-color": "#282828"
+              "background-color": "#168de2",
+              "border-color": "#168de2"
             }
           },
           "_tags": [
@@ -566,16 +576,18 @@
           "_name": "features4",
           "_anchor": "features4-b",
           "_params": {
-            "iconsBgColor": "#282828",
+            "iconsBgColor": "#168de2",
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2dae93",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/vDxpTEz6Cmg?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": false,
             "overlay": false,
@@ -728,18 +740,20 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/strejch-2000x1333.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/5Nf78u9sYH0?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "overlay": true,
             "overlayOpacity": "0.7",
-            "overlayColor": "#222",
+            "overlayColor": "#168de2",
             "showTitle": true,
             "showSubtitle": true,
             "firstType": "",
@@ -792,19 +806,37 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#28324e"
+            },
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-size": "36px",
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+            },
+            "SMALL": {
+              "color": "#28324e"
+            },
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
           "_anchor": "form1-9",
           "_params": {
-            "labelsColor": "#232323",
+            "labelsColor": "#28324e",
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#33ac9d",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-2000x831.jpg",
+            "bgColor": "#bbdcf7",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#ffffff",
             "showTitle": true,
             "showSubTitle": true
           },
@@ -837,31 +869,26 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ОТПРАВИТЬ</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff",
-              "font-size": "36px",
-              "font-family": "'Droid Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
-            },
-            "SMALL": {
-              "color": "#efefef"
-            },
-            ".btn": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ОТПРАВИТЬ</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#efefef"
+            },
+            "UL": {
+              "color": "#eeff7a"
+            },
+            "STRONG": {
+              "color": "#efefef"
+            }
+          },
           "_anchor": "contacts2-a",
           "_params": {
             "paddingTop": 3,
@@ -869,7 +896,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#168de2",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -882,13 +909,7 @@
             }
           },
           "text1": "<strong>Адрес</strong><br>ул. Саина 165 оф.1 (угол. ул. Абая)<br><br><br>\n<strong>Контакты</strong><br>\nEmail: billonkz@mail.ru<br>\nTel: 8 (727) 327-55-27<br>Mob:  8 707 327 55 27",
-          "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Перейти</b></span></font></p><p class=\"mbr-contacts__text\"><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font></p><ul><li>Преимущества стрейч-пленки</li><li><a href=\"index.html#features4-b\" class=\"text-white\">П</a>очему мы?<a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"index.html#pricing-table2-8\" class=\"text-white\">С</a>качать Прайс-лист<a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>",
-          "_styles": {
-            "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            }
-          }
+          "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><a href=\"#top\">Перейти</a></b></span></font></p><p class=\"mbr-contacts__text\"><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font></p><ul><li><a href=\"index.html#features7-3\">Преимущества стрейч-пленки</a></li><li><a href=\"index.html#features4-b\" class=\"text-white\">П</a><a href=\"index.html#features4-b\">очему мы?</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"index.html#pricing-table2-8\" class=\"text-white\">С</a><a href=\"index.html#pricing-table2-8\">качать Прайс-лист</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
         }
       ]
     }
