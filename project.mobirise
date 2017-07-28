@@ -135,7 +135,7 @@
           "_styles": {
             ".mbr-section-lead": {
               "font-size": "32px",
-              "color": "#def250"
+              "color": "#ffef00"
             },
             ".mbr-section-title": {
               "font-size": "60px"
@@ -177,7 +177,7 @@
             },
             "H3": {
               "font-size": "30px",
-              "color": "#4b7cf7"
+              "color": "#28324e"
             }
           },
           "_tags": [
@@ -721,10 +721,10 @@
               "color": "#000000"
             },
             ".mbr-plan-subtitle": {
-              "color": "#33ac9d"
+              "color": "#0441f9"
             },
             ".mbr-plan-price-desc": {
-              "color": "#d14841"
+              "color": "#ff0000"
             },
             "UL": {
               "font-family": "'Open Sans', sans-serif",
@@ -772,7 +772,7 @@
           "period1": "/М.",
           "description1": "СКАЧАТЬ ВЕСЬ ПРАЙС-ЛИСТ",
           "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Намотка 180 м</li><li class=\"list-group-item\">Ширина 500 мм</li><li class=\"list-group-item\">Вес 1,2 кг</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">ЗАКАЗАТЬ</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\">ЗАКАЗАТЬ</a>",
           "label2": "HOT!",
           "title2": "20 МИКРОН<br><br>",
           "subtitle2": "ДЛЯ КРЕПЛЕНИЯ ТЯЖЕЛЫХ КРУПНОГАБАРИТНЫХ ГРУЗОВ",
@@ -781,7 +781,7 @@
           "period2": "/М.",
           "description2": "СКАЧАТЬ ВЕСЬ ПРАЙС-ЛИСТ",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Намотка 180 м</li><li class=\"list-group-item\">Ширина 500 мм</li><li class=\"list-group-item\">Вес 1,2 кг</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">ЗАКАЗАТЬ</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\">ЗАКАЗАТЬ</a>",
           "label3": "HOT!",
           "title3": "23 МИКРОНА<br><br>",
           "subtitle3": "ДЛЯ СВЕРХТЯЖЕЛЫХ ГРУЗОВ, ТАКИХ КАК КАМЕННЫЕ БЛОКИ И БОРДЮРЫ",
@@ -790,7 +790,7 @@
           "period3": "/М.",
           "description3": "СКАЧАТЬ ВЕСЬ ПРАЙС-ЛИСТ",
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Намотка 180 м</li><li class=\"list-group-item\">Ширина 500 мм</li><li class=\"list-group-item\">Вес 1,2 кг</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">ЗАКАЗАТЬ</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\">ЗАКАЗАТЬ</a>",
           "label4": "HOT!",
           "title4": "ULTIMATE",
           "subtitle4": "Description",
